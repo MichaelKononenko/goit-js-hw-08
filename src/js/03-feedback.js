@@ -16,6 +16,8 @@ function checkData() {
   if (localData) {
     email.value = localData.email;
     message.value = localData.message;
+    data.email = localData.email;
+    data.message = localData.message;
   }
 }
 
@@ -31,8 +33,21 @@ function addData(event) {
 function sendData(event) {
   event.preventDefault();
   const localData = JSON.parse(localStorage.getItem('feedback-form-state'));
-  console.log(localData);
-  localStorage.removeItem('feedback-form-state');
-  email.value = '';
-  message.value = '';
+  if (!localData) {
+    console.log('error: no input data');
+    alert('All fields must be filled');
+    return;
+  } else if (localData.email && localData.message) {
+    console.log(localData);
+    localStorage.removeItem('feedback-form-state');
+    data.email = '';
+    data.message = '';
+    email.value = '';
+    message.value = '';
+  } else {
+    console.log('error: not all fields are filled');
+    alert('All fields must be filled');
+    checkData();
+    return;
+  }
 }

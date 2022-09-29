@@ -10,7 +10,7 @@ function saveData(data) {
 
 player.on('play', data => {
   const savedTime = localStorage.getItem('videoplayer-current-time');
-  if (data.seconds !== savedTime) {
+  if (data.seconds !== savedTime && savedTime) {
     player.setCurrentTime(savedTime);
   }
 });

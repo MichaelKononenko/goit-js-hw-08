@@ -70,7 +70,7 @@
 81C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\simplelightbox\README.md133087839003257541 0
 83C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\dist\unpacker133087844771284264 1
 53C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\.parcelrc132987303040000000 0
-65C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\src\js\03-feedback.js133088386591245240 0
+65C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\src\js\03-feedback.js133089217476425137 0
 93C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\features\jpegxr.js133087844767776418 0
 120C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV1\package.json133087838991075084 0
 78C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\posthtml\package.json133087838981750841 0
@@ -79,7 +79,7 @@
 77C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\posthtml-render\dist133087838984169353 1
 81C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\abortcontroller-polyfill133087838989326159 1
 67C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\source-map133087838990445472 1
-48C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist133088386592734335 1
+48C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist133089217477734326 1
 88C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@parcel\workers\src\cpuCount.js133087838988696555 0
 72C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\.github\workflows\deploy.yml132987303040000000 0
 56C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules133087865601169320 1
@@ -100,7 +100,7 @@
 87C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@swc\helpers\lib\_construct.js133087838994682848 0
 84C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@parcel\watcher\binding.gyp133087838990585379 0
 95C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\simplelightbox\dist\simple-lightbox.js133087839002178204 0
-56C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\package.json133087865602427906 0
+56C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\package.json133088392580811934 0
 86C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\css-select\lib\index.d.ts.map133087838991624740 0
 71C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\slash\index.js133087844751026770 0
 81C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\node-gyp-build\README.md133087838984709035 0
@@ -164,7 +164,7 @@
 50C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\src\js133087332420000000 1
 70C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\slash\license133087844751466499 0
 100C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\fast-glob\out\providers\matchers\partial.js133087838990045713 0
-62C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\src\js\02-video.js133088361070226015 0
+62C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\src\js\02-video.js133089187938231935 0
 92C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\main-mjs133087839005286296 1
 139C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main-directory\nested133087838995742210 1
 92C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\features\webgl.js133087844774202434 0
@@ -281,7 +281,7 @@
 68C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\ansi-styles133087838982450411 1
 97C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\yaml\browser\dist\resolveSeq-492ab440.js133087838993663476 0
 69C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite133087844774742100 1
-76C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\01-gallery.7d68834f.css.map133088369369173558 0
+76C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\01-gallery.7d68834f.css.map133089214278405643 0
 116C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@babel\types\lib\modifications\prependToMemberExpression.js133087844759531513 0
 84C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\htmlnano\lib\presets\max.js133087838989156270 0
 73C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\tslib\tslib.html133087838978632777 0
@@ -575,7 +575,7 @@
 116C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.1133087838991254986 0
 74C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\lines-and-columns133087838981321108 1
 75C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\simplelightbox\src133087839003417452 1
-76C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map133088386592714333 0
+76C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map133089217477714344 0
 61C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\lmdb133087839003827189 1
 88C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\dom-serializer\lib\esm\index.js133087838982660279 0
 88C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\terser\lib\compress\evaluate.js133087839729822714 0
@@ -622,7 +622,7 @@
 73C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\modern-normalize133087838981031312 1
 105C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@babel\highlight\node_modules\color-name\LICENSE133087838981570962 0
 128C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\index.js133087838981550983 0
-73C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\02-video.a74b541c.js.map133088369368403521 0
+73C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\02-video.a74b541c.js.map133089214278415640 0
 68C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\timsort\src133087838989106291 1
 89C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\cosmiconfig\dist\ExplorerSync.js133087838983040056 0
 86C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@swc\helpers\lib\_to_array.js133087838999869641 0
@@ -1139,7 +1139,7 @@
 88C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\regions\US.js133087844773692767 0
 84C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\weak-lru-cache\package.json133087838984948865 0
 86C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@parcel\transformer-babel\src133087838991594752 1
-62C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\02-video.html133088369369043107 0
+62C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\02-video.html133089214278125827 0
 86C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\nan\nan_typedarray_contents.h133087838991644729 0
 79C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\nan\nan_maybe_43_inl.h133087838987727169 0
 76C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\simplelightbox\dist133087839002877779 1
@@ -1524,7 +1524,7 @@
 86C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\browsers.js133087844757782595 0
 84C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\node-addon-api\node_api.gyp133087838978362959 0
 80C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\picocolors\package.json133087838981261146 0
-75C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\01-gallery.53390864.js.map133088369368473460 0
+75C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\01-gallery.53390864.js.map133089214278435650 0
 93C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\svgo\plugins\removeElementsByAttr.js133087838997391173 0
 94C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\svgo\plugins\removeEmptyContainers.js133087838997601038 0
 95C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-sel3.js133087844762789511 0
@@ -1872,7 +1872,7 @@
 85C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@parcel\reporter-cli\LICENSE133087838977583437 0
 84C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\sass\types\value\color.d.ts133087838999190070 0
 92C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\css-tree\lib\syntax\function\var.js133087839003467407 0
-71C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\01-gallery.53390864.js133088369368403521 0
+71C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\01-gallery.53390864.js133089214277915945 0
 87C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\sass\types\value\function.d.ts133087838999919628 0
 92C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\csso\lib\replace\property\border.js133087838989695932 0
 96C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-table.js133087844762909430 0
@@ -2747,7 +2747,7 @@
 78C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\jsesc\LICENSE-MIT.txt133087844751606427 0
 161C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-down\foo\package.json133087839002517995 0
 66C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\jsesc\man133087844752685752 1
-76C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\01-gallery.101ee4ef.css.map133088369369173558 0
+76C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\01-gallery.101ee4ef.css.map133089214278395663 0
 70C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\fastq\.github133087838989236211 1
 72C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\fastq\README.md133087838986487916 0
 84C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@parcel\workers\lib\process133087838993303697 1
@@ -3682,7 +3682,7 @@
 88C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\regions\NP.js133087844770084978 0
 88C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\regions\NR.js133087844770094989 0
 76C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@parcel\workers\src133087838996801531 1
-69C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\02-video.a74b541c.js133088369368333531 0
+69C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\02-video.a74b541c.js133089214277915945 0
 88C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\regions\PA.js133087844770404810 0
 88C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\regions\PE.js133087844770534711 0
 88C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\regions\PK.js133087844770684614 0
@@ -3809,7 +3809,7 @@
 105C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-cascade-layers.js133087844759941259 0
 107C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-case-insensitive.js133087844759971239 0
 105C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-color-function.js133087844760061210 0
-72C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\01-gallery.7d68834f.css133088369369173558 0
+72C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\01-gallery.7d68834f.css133089214277905946 0
 99C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@parcel\utils\test\input\config\empty.toml133087839002098253 0
 106C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-conic-gradients.js133087844760081179 0
 141C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false\package.json133087839002228184 0
@@ -4614,7 +4614,7 @@
 113C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@parcel\runtime-react-refresh\src\ReactRefreshRuntime.js133087838980861420 0
 113C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@parcel\runtime-react-refresh\lib\ReactRefreshRuntime.js133087838979302357 0
 88C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@parcel\runtime-js\package.json133087838996091967 0
-64C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\01-gallery.html133088369369043107 0
+64C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\01-gallery.html133089214278125827 0
 113C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\invalid-distpath\package.json133087839005046432 0
 79C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@parcel\runtime-js\src133087838994183168 1
 116C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.napi.node133087838985308655 0
@@ -5312,9 +5312,9 @@
 94C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@babel\types\lib\utils\inherit.js.map133087844760151130 0
 85C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@babel\types\lib\utils\react133087844760181107 1
 99C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@babel\types\lib\utils\shallowEqual.js.map133087844760580871 0
-74C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\goit-js-hw-08.59712999.js133088369368333531 0
+74C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\goit-js-hw-08.59712999.js133089214277915945 0
 116C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@babel\types\lib\utils\react\cleanJSXElementLiteralChild.js133087844760171120 0
-78C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\goit-js-hw-08.59712999.js.map133088369368433478 0
+78C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\goit-js-hw-08.59712999.js.map133089214278405643 0
 120C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@babel\types\lib\utils\react\cleanJSXElementLiteralChild.js.map133087844760191113 0
 102C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@babel\types\lib\traverse\traverseFast.js.map133087844760081179 0
 87C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@babel\generator\lib\buffer.js133087844751836279 0
@@ -5672,7 +5672,7 @@
 97C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@ampproject\remapping\dist\remapping.mjs133087844752775691 0
 89C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@ampproject\remapping\dist\types133087844753445276 1
 116C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@ampproject\remapping\dist\types\build-source-map-tree.d.ts133087844753005545 0
-73C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\03-feedback.ba2d0753.css133088369368483446 0
+73C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\03-feedback.ba2d0753.css133089214277905946 0
 67C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\.bin\acorn133087839018512416 0
 67C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\.bin\babel133087844776001324 0
 88C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\.bin\babel-external-helpers.cmd133087844775991338 0
@@ -5696,11 +5696,11 @@
 66C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\.bin\svgo133087839018572417 0
 70C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\.bin\svgo.ps1133087839018572417 0
 72C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\.bin\terser.ps1133087839731840882 0
-72C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\01-gallery.101ee4ef.css133088369369173558 0
-72C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\03-feedback.5440b4f4.js133088386592684357 0
-77C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\03-feedback.ba2d0753.css.map133088369368613360 0
-65C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\03-feedback.html133088369369821991 0
-59C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\index.html133088369369951896 0
+72C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\01-gallery.101ee4ef.css133089214277905946 0
+72C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\03-feedback.5440b4f4.js133089217477684351 0
+77C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\03-feedback.ba2d0753.css.map133089214278405643 0
+65C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\03-feedback.html133089214278125827 0
+59C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\index.html133089214278125827 0
 76C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\assets\actions-config-step-2.png132987303040000000 0
 67C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\assets\how-it-works.png132987303040000000 0
 68C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\assets\repo-settings.png132987303040000000 0
