@@ -1,5 +1,6 @@
 const throttle = require('lodash.throttle');
 
+const form = document.querySelector('.feedback-form');
 const email = document.querySelector('input');
 const message = document.querySelector('textarea');
 const submitButoon = document.querySelector('button');
@@ -33,21 +34,14 @@ function addData(event) {
 function sendData(event) {
   event.preventDefault();
   const localData = JSON.parse(localStorage.getItem('feedback-form-state'));
-  if (!localData) {
-    console.log('error: no input data');
+  if (!email.value || !message.value) {
+    console.log('error: not all fields are filled');
     alert('All fields must be filled');
-    return;
-  } else if (localData.email && localData.message) {
+  } else {
     console.log(localData);
     localStorage.removeItem('feedback-form-state');
     data.email = '';
     data.message = '';
-    email.value = '';
-    message.value = '';
-  } else {
-    console.log('error: not all fields are filled');
-    alert('All fields must be filled');
-    checkData();
-    return;
+    form.reset();
   }
 }
