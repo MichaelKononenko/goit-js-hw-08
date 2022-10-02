@@ -15,7 +15,8 @@ function saveData(data) {
 //   }
 // });
 
-if (localStorage.getItem('videoplayer-current-time')) {
-  const savedTime = localStorage.getItem('videoplayer-current-time');
-  player.setCurrentTime(savedTime);
-}
+// if (localStorage.getItem('videoplayer-current-time')) {
+//   const savedTime = localStorage.getItem('videoplayer-current-time');
+//   player.setCurrentTime(savedTime);
+// }
+player.setCurrentTime(localStorage.getItem('videoplayer-current-time') || 0);
