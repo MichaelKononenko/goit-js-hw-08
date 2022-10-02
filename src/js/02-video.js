@@ -8,9 +8,14 @@ function saveData(data) {
   localStorage.setItem('videoplayer-current-time', data.seconds);
 }
 
-player.on('play', data => {
+// player.on('play', data => {
+//   const savedTime = localStorage.getItem('videoplayer-current-time');
+//   if (data.seconds !== savedTime && savedTime) {
+//     player.setCurrentTime(savedTime);
+//   }
+// });
+
+if (localStorage.getItem('videoplayer-current-time')) {
   const savedTime = localStorage.getItem('videoplayer-current-time');
-  if (data.seconds !== savedTime && savedTime) {
-    player.setCurrentTime(savedTime);
-  }
-});
+  player.setCurrentTime(savedTime);
+}

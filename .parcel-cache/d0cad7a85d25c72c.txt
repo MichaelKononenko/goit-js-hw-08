@@ -79,7 +79,7 @@
 77C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\posthtml-render\dist133087838984169353 1
 81C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\abortcontroller-polyfill133087838989326159 1
 67C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\source-map133087838990445472 1
-48C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist133090077086220763 1
+48C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist133091989559855767 1
 88C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@parcel\workers\src\cpuCount.js133087838988696555 0
 72C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\.github\workflows\deploy.yml132987303040000000 0
 56C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules133087865601169320 1
@@ -164,7 +164,7 @@
 50C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\src\js133087332420000000 1
 70C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\slash\license133087844751466499 0
 100C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\fast-glob\out\providers\matchers\partial.js133087838990045713 0
-62C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\src\js\02-video.js133089187938231935 0
+62C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\src\js\02-video.js133091989558546576 0
 92C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\main-mjs133087839005286296 1
 139C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main-directory\nested133087838995742210 1
 92C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\features\webgl.js133087844774202434 0
@@ -622,7 +622,7 @@
 73C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\modern-normalize133087838981031312 1
 105C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@babel\highlight\node_modules\color-name\LICENSE133087838981570962 0
 128C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\index.js133087838981550983 0
-73C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\02-video.a74b541c.js.map133090071376053620 0
+73C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\02-video.a74b541c.js.map133091989559825776 0
 68C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\timsort\src133087838989106291 1
 89C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\cosmiconfig\dist\ExplorerSync.js133087838983040056 0
 86C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@swc\helpers\lib\_to_array.js133087838999869641 0
@@ -3682,7 +3682,7 @@
 88C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\regions\NP.js133087844770084978 0
 88C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\regions\NR.js133087844770094989 0
 76C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\@parcel\workers\src133087838996801531 1
-69C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\02-video.a74b541c.js133090071375913717 0
+69C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\dist\02-video.a74b541c.js133091989559795793 0
 88C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\regions\PA.js133087844770404810 0
 88C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\regions\PE.js133087844770534711 0
 88C:\Users\micha\OneDrive\Go_it\goit-js-hw-08\node_modules\caniuse-lite\data\regions\PK.js133087844770684614 0
